@@ -1,0 +1,55 @@
+/* CDN link Bootstrap icon */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#mainSection{
+    border: 1px solid gray;
+    width: 600px;
+    height: 500px;
+    margin: 30px auto;
+}
+
+#storyInfo{
+    display: flex;
+    align-items: center;
+}
+
+#storyInfo img{
+    width: 80px;
+    margin-left: 10px;
+}
+
+#storyInfo h3{
+    font-size: 16px;
+}
+
+#storyInfo {
+    font-size: 12px;
+}
+
+
+#post img{
+    margin: 0px 10px;
+    width: 580px;
+    height: 330px;
+
+}
+
+#post p{
+    margin-left: 15px;
+    text-align: left;
+}
+
+#interAction{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 10px;
+    color: red;
+}
+
